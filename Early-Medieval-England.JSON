@@ -1,31 +1,32 @@
 {
-    "events": [
-        {
-            "start_date": {
-                "year": "450"
-            },
-            "headline": "Traditional Arrival of the Anglo-Saxons to Britain",
-            "text": "This date marks the traditional arrival of the Anglo-Saxons in Britain, though it's an oversimplification. Events, writings, and archaeological evidence suggest the timeline is more nuanced. By the mid-5th century, there was significant Anglo-Saxon influence in the region. The terms 'Saxons', 'Anglo-Saxons', and 'English' often overlapped, referencing the Germanic invaders.",
-            "media": {
-                "url": "",  
-                "caption": "",
-                "credit": ""
-            }
+    "title": {
+        "media": {
+          "url": "//www.flickr.com/photos/tm_10001/2310475988/",
+          "caption": "Whitney Houston performing on her My Love is Your Love Tour in Hamburg.",
+          "credit": "flickr/<a href='http://www.flickr.com/photos/tm_10001/'>tm_10001</a>"
         },
-        {
-            "start_date": {
-                "year": "450"
-            },
-            "end_date": {
-                "year": "550"
-            },
-            "headline": "Prehistory of Anglo-Saxon England",
-            "text": "This century marked a period of ambiguity in Anglo-Saxon England. Gildas provides an account from the mid-6th century, hinting at British struggles against the Saxons and the battle of mons Badonicus. The narrative, however, remains uncertain. King Arthur, an iconic figure from this era, is surrounded by legends, and his historical accuracy is debated. This century is foundational, but specifics are hard to pin down due to the mixture of myth, legend, and real events.",
-            "media": {
-                "url": "",  // 
-                "caption": "",
-                "credit": ""
-            }
+        "text": {
+          "headline": "Whitney Houston<br/> 1963 - 2012",
+          "text": "<p>Houston's voice caught the imagination of the world propelling her to superstardom at an early age becoming one of the most awarded performers of our time. This is a look into the amazing heights she achieved and her personal struggles with substance abuse and a tumultuous marriage.</p>"
         }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "{{ static_url }}/img/examples/houston/family.jpg",
+          "caption": "Houston's mother and Gospel singer, Cissy Houston (left) and cousin Dionne Warwick.",
+          "credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
+        },
+        "start_date": {
+          "month": "8",
+          "day": "9",
+          "year": "1963"
+        },
+        "text": {
+          "headline": "A Musical Heritage",
+          "text": "<p>Born in New Jersey on August 9th, 1963, Houston grew up surrounded by the music business. Her mother is gospel singer Cissy Houston and her cousins are Dee Dee and Dionne Warwick.</p>"
+        }
+      } 
+      
     ]
 }
